@@ -1,5 +1,5 @@
 # pip install pytest
-# run tests with 
+# run tests with command "pytest"
 
 # function to test
 def inc(x):
@@ -8,3 +8,4 @@ def inc(x):
 # run test
 def test_inc():
     assert inc(3) == 4
+
